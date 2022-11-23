@@ -2,7 +2,7 @@
 ## Opa blza, Eu sou o Romário!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rom%C3%A1rio-da-silva-rocha-82315b94/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/romariodasilva00/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/romas0.0/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomarioDaSilva&show_icons=true&theme=tokyonight)
 
