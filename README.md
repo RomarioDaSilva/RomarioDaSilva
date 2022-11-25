@@ -1,10 +1,14 @@
 
-## Opa blza, Eu sou o Romário!
+# Opa blza, Eu sou o Romário!
+
+Desenvolvedor junior Front-End.
+---
+Estou estudando para evoluir cada vez mais como desenvolvedor Front-end!
+Hoje minha meta é contribuir todos os dias para algum projeto pessoal, estou criando projetos de estudos e projetos criados totalmente por mim ( com ajudinha do Google né :) kk ), em todos os projetos estarei colocando se é um projeto meu ou de estudo.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rom%C3%A1rio-da-silva-rocha-82315b94/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/romas0.0/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomarioDaSilva&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomarioDaSilva&layout=compact)](https://github.com/RomarioDaSilva/github-readme-stats)
 
