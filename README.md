@@ -4,7 +4,7 @@
 Desenvolvedor junior Front-End.
 ---
 Estou estudando para evoluir cada vez mais como desenvolvedor Front-end!
-Hoje minha meta é contribuir todos os dias para algum projeto pessoal, estou criando projetos de estudos e projetos criados totalmente por mim ( com ajudinha do Google né :) kk ), em todos os projetos estarei colocando se é um projeto meu ou de estudo.
+Hoje minha meta é contribuir todos os dias para algum projeto pessoal, estou criando projetos de estudos e projetos criados totalmente por mim (com ajudinha do Google né :) kk), em todos os projetos estarei colocando se é um projeto meu ou de estudo.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rom%C3%A1rio-da-silva-rocha-82315b94/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/romas0.0/)
